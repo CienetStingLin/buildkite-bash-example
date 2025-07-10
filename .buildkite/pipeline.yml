@@ -6,3 +6,7 @@ steps:
 steps:
   - label: "Test Command"
     command: "ls -al"
+
+steps:
+  - label: "Run Tests"
+    command: "gcloud config configuration list"
