@@ -9,4 +9,4 @@ steps:
 
 steps:
   - label: "Run Tests"
-    command: "gcloud config configuration list"
+    command: "gcloud config configurations list"
